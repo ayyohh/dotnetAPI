@@ -1,0 +1,14 @@
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/bin/Debug/netcoreapp2.1/DNApi.API.deps.json
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/bin/Debug/netcoreapp2.1/DNApi.API.runtimeconfig.json
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/bin/Debug/netcoreapp2.1/DNApi.API.runtimeconfig.dev.json
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/bin/Debug/netcoreapp2.1/DNApi.API.dll
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/bin/Debug/netcoreapp2.1/DNApi.API.pdb
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.csprojAssemblyReference.cache
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.csproj.CoreCompileInputs.cache
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.RazorAssemblyInfo.cache
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.RazorAssemblyInfo.cs
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.AssemblyInfoInputs.cache
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.AssemblyInfo.cs
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.RazorTargetAssemblyInfo.cache
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.dll
+/Users/fuckyobitch/Desktop/dotnetAPI/DNApi.API/obj/Debug/netcoreapp2.1/DNApi.API.pdb
